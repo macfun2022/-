@@ -1,0 +1,2 @@
+OpenCore-Patcher-GUI神器下载地址：
+https://github.com/dortania/OpenCore-Legacy-Patcher
